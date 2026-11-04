@@ -1,0 +1,6 @@
+{
+  "name": "The Secret World of Akilesh",
+  "description": "A magical romantic anime adventure game created for Akilesh featuring 5 playable levels and a heartfelt surprise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
